@@ -13,6 +13,8 @@ As an AI Product Manager, I established an **AI-Driven Development (AIDD)** work
 ## 📊 Product Architecture & Data Flow
 Sentinel leverages **LangGraph** to manage a stateful Directed Acyclic Graph (DAG), ensuring seamless context propagation (`AgentState`) across decoupled analytical and execution nodes.
 
+<img width="395" height="450" alt="image" src="https://github.com/user-attachments/assets/508c9fef-ebc2-4224-99e9-164928b1bca9" />
+
 ### Agent 1: Macro Agent (macro.py)
 ### Agent 2: Sector Agent (sector.py)
 ### Agent 3: Stock Agent (stock.py)
